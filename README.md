@@ -53,4 +53,4 @@ Open index.html in your browser.
 Goutam Kumar
 
 <a href="https://github.com/im-goutam"><img src="https://skillicons.dev/icons?i=github" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://github.com/im-goutam"><img src="https://skillicons.dev/icons?i=linkedin" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/goutamkumar9/"><img src="https://skillicons.dev/icons?i=linkedin" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
