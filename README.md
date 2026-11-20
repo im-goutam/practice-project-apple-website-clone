@@ -2,8 +2,10 @@
 
 <p> A front-end recreation of Apple's homepage, built using pure HTML and CSS. </p>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" />&nbsp;&nbsp;&nbsp;&nbsp; </p>
+## 🛠️ Technologies Used
+
+<img src="https://skillicons.dev/icons?i=html" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" />&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## ✨ About the Project
 
